@@ -23,4 +23,4 @@ This project will save future generations from the money hungry corporate entiti
 
 1) Magu proposes that all the data found in [the OCP database](https://opencannabisproject.org/ocp-database/) be stored on a distributed ledger in order to double down on the safety of this utmost important data, transforming the project into, The Open Blockchain Cannabis Project (OBCP).
 
-2) Magu would love to see whats going on under the hood. Consolidation of the data from all genome contributors with an interactive graphical view of the blockchain could shine light on the project. This would make it engaging. It may help in spreading the importance of this crucial project, accelerate contribtion from all that believe in the healing power of the plant of all plants.
+2) Magu would love to see whats going on under the hood. Consolidation of the data from all genome contributors with an interactive graphical view of the blockchain could shine light on the project. This would make it engaging. It may help in spreading the importance of this crucial project and accelerate contribtion from all that believe in the healing power of the plant of all plants.
